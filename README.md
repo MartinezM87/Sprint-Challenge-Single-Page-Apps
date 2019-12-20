@@ -26,9 +26,8 @@ In this challenge, you will create a Single Page Application complete with Clien
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 - [ ]  Explain benefit(s) using `client-side routing`?
-    - All of your changes are happening on the client-side, so they don't have to wait for a response from a server. This also allows you to use less memory and data. 
-
-> Answer:
+  
+> Answer: client-side routing allows you to quickly prototype your application. This is useful before you go and host your website on a server. It uses less data, and the whole site is loaded at once.
 
 ## Project Set Up
 
